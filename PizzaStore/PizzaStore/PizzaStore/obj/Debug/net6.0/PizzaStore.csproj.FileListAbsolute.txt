@@ -1,0 +1,15 @@
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\PizzaStore\PizzaStore\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
